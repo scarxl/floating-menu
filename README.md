@@ -35,6 +35,7 @@ Before we can jump head first into working a template, we need to go over a few 
 * **AN EXPERIENCED MODDER, NOT A BEGINNER:** You should be able to mod any games in general, like modifying .so files, dll files, smali files, etc.
 * Basic knowledge of smali dalvik opcodes to modify smali
 * Basic knowledge ARM and ARM64 assembly, to be able to patch hex (No need x86)
+* 
 * Basic knowledge of C++ and java (JNI is optional)
 * Be able to write hook function in C++ (Not really needed, but recommended if you want to do advanced modding in the future)
 * Basic awareness of how Android layout works in XML and Java. This project only use Java for layout but you will learn it easly
@@ -556,4 +557,4 @@ Thanks to the following individuals whose code helped me develop this mod menu
 * MrIkso - First mod menu template https://github.com/MrIkso/FloatingModMenu
 * MJx0 A.K.A Ruit - https://github.com/MJx0/KittyMemory
 * Rprop - https://github.com/Rprop/And64InlineHook
-* And everyone else who provided input and contributions to this project!
+* And everyone else who provided input and contributions to this project
